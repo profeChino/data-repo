@@ -28,7 +28,7 @@
     "title": "Postre de Frutos Rojos",
     "category": "postre",
     "price": 110,
-    "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569239/foods/helcv8nvhxzhnjtzx09w.jpg",
+    "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569238/foods/ou7tteexdlpdyozrgcql.jpg",
     "desc": "Mezcla de frutos rojos, yogur, quinoa, gelatina de fresa y pastel de fresa"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Variedad de Donas",
     "category": "postre",
     "price": 30,
-    "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569238/foods/nka7egd777vczc7sq2t4.jpg",
+    "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569237/foods/czpqi6sgoepedcpo5bs6.jpg",
     "desc": "Donas de Fresa, Chocolate, Chocolate Blanco, chispas de chocolate, nuez, granola"
   },
   {
@@ -108,8 +108,16 @@
     "title": "Cordero Asado",
     "category": "postre",
     "price": 210,
-    "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569237/foods/cjavrs8smyrqjppyhlb0.jpg",
+    "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569237/foods/vuulgkfx2dyatud4nq0x.jpg",
     "desc": "Cordero Asado (250gr) con ensalada y papas francesas"
+  },
+  {
+    "id": 15,
+    "title": "Pastelitos de Chocolate",
+    "category": "postre",
+    "price": 105,
+    "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569237/foods/wnmbhp2nhcxnnz87mirz.jpg",
+    "desc": "Pastelitos de chocolate con cubierta crujiente y relleno de caramelo"
   }
 ]
 
