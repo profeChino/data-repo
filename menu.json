@@ -106,7 +106,7 @@
   {
     "id": 14,
     "title": "Cordero Asado",
-    "category": "postre",
+    "category": "platillo",
     "price": 210,
     "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569237/foods/vuulgkfx2dyatud4nq0x.jpg",
     "desc": "Cordero Asado (250gr) con ensalada y papas francesas"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "title": "Pastelitos de Chocolate",
-    "category": "platillo",
+    "category": "postre",
     "price": 105,
     "img": "https://res.cloudinary.com/dk1qy4pny/image/upload/v1695569237/foods/wnmbhp2nhcxnnz87mirz.jpg",
     "desc": "Pastelitos de chocolate con cubierta crujiente y relleno de caramelo"
